@@ -3,8 +3,8 @@
 # Olá! Breno Borges!👋
 ## 👩‍💻 QA Manager
 
-- 👨‍💻 Software Engineer
-- 📚 Graduated in Computer engineering
+- 👨‍💻 Graduated in Computer engineering
+- 📚 Postgraduate Degree, Leadership and People Management
 - 🔭 Currently working with Python and RobotFramework and DevOps...
 
 
