@@ -4,7 +4,7 @@
 ## 👩‍💻 QA Manager
 
 - 👨‍💻 Software Engineer
-- 📚 Graduated in Computer engineering from the Anápolis University Center
+- 📚 Graduated in Computer engineering
 - 🔭 Currently working with Python and RobotFramework and DevOps...
 
 
