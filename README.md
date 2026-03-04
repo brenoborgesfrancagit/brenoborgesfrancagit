@@ -35,32 +35,34 @@ I am also a **Software Engineering professor**, teaching topics such as **Backen
 
 # 🧠 Core Expertise
 
-**Software Quality Engineering**
+### Software Quality Engineering
 
 - Test Automation Architecture
 - Robot Framework
 - BDD Testing
-- Regression & Smoke Testing
+- Regression Testing
+- Smoke Testing
 - CI/CD Testing Pipelines
 
-**Backend Development**
+### Backend Development
 
 - REST APIs
 - Microservices
+- API Testing
 - Distributed Systems
 
-**Mobile Development**
+### Mobile Development
 
-- iOS Applications
-- Android Applications
+- iOS Development (Swift)
+- Android Development
 - Mobile API Integration
-- Community-based Platforms
+- Community Platforms
 
 ---
 
 # 🛠 Technology Stack
 
-### Programming Languages
+## Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -71,17 +73,18 @@ I am also a **Software Engineering professor**, teaching topics such as **Backen
 
 ---
 
-### QA & Automation
+## QA & Automation
 
 - Robot Framework
 - Selenium
 - Playwright
-- Test Strategy
 - Automation Framework Design
+- Test Strategy
+- End-to-End Testing
 
 ---
 
-### DevOps & Infrastructure
+## DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
@@ -90,7 +93,7 @@ I am also a **Software Engineering professor**, teaching topics such as **Backen
 
 ---
 
-### Databases
+## Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
@@ -109,7 +112,7 @@ A mobile platform designed to connect **car enthusiasts**, enabling users to:
 - share vehicles
 - interact with other members
 - publish automotive content
-- create social communities around cars
+- build communities around cars
 
 ---
 
@@ -135,9 +138,11 @@ A mobile platform designed to connect **car enthusiasts**, enabling users to:
 
 ---
 
-# 🐍 Contribution Graph
+# 🐍 Contribution Snake
 
-![snake gif](https://github.com/brenoborgesfrancagit/brenoborgesfrancagit/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/brenoborgesfrancagit/brenoborgesfrancagit/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
